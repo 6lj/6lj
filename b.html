@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Infinity Worm</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+
+    .logo-container {
+      width: 500px;
+      height: 250px;
+      background: rgba(255, 255, 255, 0.95);
+      border-radius: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+    }
+
+    .infinity-logo {
+      width: 90%;
+      height: auto;
+    }
+
+    .infinity-path-base {
+      stroke: rgba(43, 76, 126, 0.1);
+      stroke-width: 10;
+      fill: none;
+    }
+
+    .infinity-path-worm {
+      stroke: #2B4C7E;
+      stroke-width: 10;
+      fill: none;
+      stroke-linecap: round;
+      stroke-dasharray: 800 400;
+      stroke-dashoffset: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo-container">
+    <svg class="infinity-logo" viewBox="0 0 500 250">
+      
+      <path id="pathBase"
+        d="M80 125 C 80 75, 170 75, 250 125
+           C 330 175, 420 175, 420 125
+           C 420 75, 330 75, 250 125
+           C 170 175, 80 175, 80 125"
+        class="infinity-path-base" />
+
+    
+      <path id="pathWorm"
+        d="M80 125 C 80 75, 170 75, 250 125
+           C 330 175, 420 175, 420 125
+           C 420 75, 330 75, 250 125
+           C 170 175, 80 175, 80 125"
+        class="infinity-path-worm" />
+    </svg>
+  </div>
+
+  <script>
+    const wormPath = document.getElementById("pathWorm");
+    const pathLength = wormPath.getTotalLength();
+    const dashLength = 800;
+    const gap = 400;
+    const duration = 6000;
+
+    function animate(timestamp) {
+      const time = (timestamp % duration) / duration;
+      const dashOffset = time * (pathLength + gap);
+      wormPath.style.strokeDashoffset = dashOffset;
+      requestAnimationFrame(animate);
+    }
+
+    requestAnimationFrame(animate);
+  </script>
+</body>
+</html>

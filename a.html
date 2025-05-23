@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Worm-like Infinity Logo</title>
+  <style>
+  body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0; 
+  }
+
+  .logo-container {
+  width: 400px; 
+  height: 200px; 
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+  }
+
+  .infinity-logo {
+  width: 90%;
+  height: auto;
+  }
+
+  @keyframes drawPath {
+  0% {
+  stroke-dashoffset: 1000; 
+  }
+  100% {
+  stroke-dashoffset: 0; 
+  }
+  }
+
+  .animated-line {
+
+  stroke-dasharray: 700 300;
+  animation: drawPath 8s linear infinite; 
+  }
+  </style>
+ </head>
+ <body>
+  <div class="logo-container">
+  <svg class="infinity-logo" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path id="mainInfinityPath"
+  d="M50 100 C 50 50, 150 50, 200 100 C 250 150, 350 150, 350 100 C 350 50, 250 50, 200 100 C 150 150, 50 150, 50 100"
+  stroke="#2B4C7E"
+  stroke-width="12"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="animated-line"/>
+
+  <g>
+  <path d="M0 0 C -10 -5, -25 -5, -30 0 C -25 5, -10 5, 0 0"
+  fill="#2B4C7E"
+  stroke="#2B4C7E"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"/>
+
+  <animateMotion
+  href="#mainInfinityPath"
+  dur="8s" 
+  repeatCount="indefinite"
+  rotate="auto"> 
+  </animateMotion>
+  </g>
+  </svg>
+  </div>
+ </body>
+ </html>
