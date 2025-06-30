@@ -62,6 +62,5 @@ I consider myself a "Full Stack Developer" with practical experience launching o
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out\!
 
 * **GitHub:** [https://github.com/6lj](https://github.com/6lj)  
-* **Email:** (q@q5.qa)
+* **Email:** q@q5.qa
 
-**Let’s build something amazing together\!**
