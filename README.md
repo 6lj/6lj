@@ -17,7 +17,7 @@ I consider myself a "Full Stack Developer" with practical experience launching o
 | **Languages**     | Lua, Obj-C, HTML, CSS, PHP, C++, C\#, Python, LocalStorage                                   |
 | **Frameworks/Libs** | Node.js, React.js                                                                           |
 | **Databases**     | MySQL, SQLite                                                                               |
-| **Mobile Modding** | Android (APK Modification, Lua scripts, C\# for offsets), iOS (IPA Modification)             |
+| **Mobile APPs** | Android (APK Modification, Lua scripts, C\# for offsets), iOS (IPA Modification)             |
 | **Web Concepts**   | Server-side, Client-side, Backend, Frontend, Data Storage, Data Presentation               |
 | **Additional Skills** | Video editing, Photoshop, English (Note: These are tools used in projects, not primary specialties, but developed to a "serious" knowledge level.) |
 
@@ -62,6 +62,6 @@ I consider myself a "Full Stack Developer" with practical experience launching o
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out\!
 
 * **GitHub:** [https://github.com/6lj](https://github.com/6lj)  
-* **Email:** (Consider adding your preferred contact email here)
+* **Email:** (q@q5.qa)
 
 **Let’s build something amazing together\!**
