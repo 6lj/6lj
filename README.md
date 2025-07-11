@@ -55,7 +55,7 @@ I consider myself a "Full Stack Developer" with practical experience launching o
 * **Full Stack Web Development** (Professional Certificate)  
 * **Bachelor’s in Computer Science** from National University (NU) (Expected 2025\)  
 * **Diploma alison**  
-* **Qiyas Standardized Test** Certification
+
 
 ## **📫 Let's Connect\!**
 
