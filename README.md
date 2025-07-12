@@ -53,7 +53,7 @@ I consider myself a "Full Stack Developer" with practical experience launching o
 ## **🎓 Certificates & Education**
 
 * **Full Stack Web Development** (Professional Certificate)  
-* **Bachelor’s in Computer Science** from National University (NU) (Expected 2025\)  
+* **Bachelor’s in Computer Science** from National University (NU) ( 2025\)  
 * **Diploma alison in Information Technology Management**  
 
 
