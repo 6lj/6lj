@@ -62,7 +62,7 @@ I consider myself a "Full Stack Developer" with practical experience launching o
 ## **📫 Let's Connect\!**
 
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out\!
-* **CV:** [https://github.com/6lj](https://cv.q5.qa)  
+* **CV:** [https://cv.q5.qa](https://cv.q5.qa)  
 * **GitHub:** [https://github.com/6lj](https://github.com/6lj)  
 * **Email:** q@q5.qa
 
