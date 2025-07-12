@@ -41,7 +41,9 @@ I consider myself a "Full Stack Developer" with practical experience launching o
   * [Quran-Encyclopedia](https://q.q5.qa)  
   * RXO-Calculator-KSA  
   * [Polywar-Mod-Menu-Website](https://github.com/6lj/Polywar-Mod-Menu-Website)  
-  * [sendmassageandshow](https://msg.q5.qa)  
+  * [sendmassageandshow](https://msg.q5.qa)
+  * [UML AI ](https://uml.q5.qa)
+  * [Task Manager ](https://task.q5.qa)  
   * Rate-your-doctor  
   * [TV channel](https://q5.qa/t)  
   * [Social Media Page](https://q5.qa)  
