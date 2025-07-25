@@ -4,7 +4,7 @@
 
 **Full Stack Developer | Software Engineer | Mobile & Game Development**
 
-I'm a passionate **Full Stack Developer** pursuing a Bachelor's degree in Computer Science at National University (NU), expected to graduate in **2025**. With expertise in web, mobile, and game development, I build scalable, efficient, and innovative solutions. My experience spans **server-side, client-side, backend, frontend, mobile app modifications, and 3D game design** using tools like Unity and Unreal Engine.
+I'm a passionate **Full Stack Developer** pursuing a Bachelor's degree in Computer Science at National University (NU), graduate in **2025**. With expertise in web, mobile, and game development, I build scalable, efficient, and innovative solutions. My experience spans **server-side, client-side, backend, frontend, mobile app modifications, and 3D game design** using tools like Unity and Unreal Engine.
 
 ---
 
