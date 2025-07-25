@@ -63,7 +63,7 @@ I'm a passionate **Full Stack Developer** pursuing a Bachelor's degree in Comput
   - [Personal CV Website](https://cv.q5.qa): Interactive portfolio with AI and live chat database. *(React.js, Node.js, SQLite)*
   - [PDF Viewer](https://cert.q5.qa): Web app to browse and view PDF certificates. *(JavaScript, Node.js)*
   - [PlantUML Viewer](https://fastviewer.q5.qa/editor): Web app for displaying UML diagrams using PlantUML. *(JavaScript, Node.js)*
-  - [3DWEB](https://3dtest.q5.qa): 3D web application with interactive visualizations. *(JavaScript, WebGL, React.js)*
+  - [3DWEB](https://3dtest.q5.qa): 3D web application with interactive visualizations. *(JavaScript, WebGL, HTML, three.js)*
 - **Player Implementations**:
   - [Quran-Encyclopedia Video](https://q5.qa/vid): Video player for Islamic content. *(Node.js, React.js)*
   - [TV channel](https://q5.qa/t): Live streaming player implementation. *(Node.js, React.js)*
@@ -75,7 +75,7 @@ I'm a passionate **Full Stack Developer** pursuing a Bachelor's degree in Comput
 
 ## 🎓 Education & Certifications
 
-- **BS, Computer Science** – National University (NU), GPA 3.5/5 *(Expected June 2025)*
+- **BS, Computer Science** – National University (NU), GPA 3.5/5 *(ـune 2025)*
 - **Full Stack Web Development** – Professional Certificate *(2024)*
 - **Diploma in IT Management** – Alison *(2025)*
 - **Advanced JavaScript & React Development** – Certificate *(2024)*
