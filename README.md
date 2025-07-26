@@ -1,5 +1,6 @@
 
 ![](https://q5.qa/kax3ul6cdomb03zmwg.svg)
+
 # 👋 Hi, I'm Mohamed AlAbiya (ENDUP)
 
 **Full Stack Developer | Software Engineer | Mobile & Game Development**
@@ -100,7 +101,7 @@ I'm open to collaborations, projects, or opportunities in **full-stack developme
 
 - 📧 **Email**: [q@q5.qa](mailto:q@q5.qa)
 - 💼 **LinkedIn**: [Mohammed Hussain Al Abyah](https://www.linkedin.com/in/mohammed-hussain-al-abyah-a85887238/)
-- 🌐 **Portfolio**: [cv.q5.qa](https://cv.q5.qa), [mohamedalihamroun.me](https://mohamedalihamroun.me)
+- 🌐 **Portfolio**: [cv.q5.qa](https://cv.q5.qa)
 - 🐙 **GitHub**: [github.com/6lj](https://github.com/6lj)
 - 📱 **Social Media**: [q5.qa](https://q5.qa)
 
@@ -112,11 +113,4 @@ I'm always open to discussing new projects, collaborations, or opportunities. Fe
 * **CV**: [https://cv.q5.qa](https://cv.q5.qa)  
 * **GitHub**: [https://github.com/6lj](https://github.com/6lj)  
 * **Email**: q@q5.qa
----
 
-*“Building the future, one line of code at a time.”*
-
-I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!
-* **CV:** [https://cv.q5.qa](https://cv.q5.qa)  
-* **GitHub:** [https://github.com/6lj](https://github.com/6lj)  
-* **Email:** q@q5.qa
