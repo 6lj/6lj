@@ -4,17 +4,16 @@
 
 **Full Stack Developer | Software Engineer | Mobile & Game Development**
 
-I'm a passionate **Full Stack Developer** pursuing a Bachelor's degree in Computer Science at National University (NU), graduate in **2025**. With expertise in web, mobile, and game development, I build scalable, efficient, and innovative solutions. My experience spans **server-side, client-side, backend, frontend, mobile app modifications, and 3D game design** using tools like Unity and Unreal Engine.
+I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree in Computer Science from Najran University (NU) in June 2025. With expertise in web and mobile development, I create scalable, efficient, and innovative solutions. My experience spans **server-side, client-side, backend, frontend, and mobile app modifications**.
 
 ---
 
 ## 🚀 About Me
 
-- 🌟 Skilled in **end-to-end development**, from server management to UI/UX design.
-- 💻 Proficient in **web development** (React.js, Node.js, PHP, MySQL) and **mobile app modifications** (Android APKs, iOS IPAs).
-- 🎮 Experienced in **3D design and game development** with Unity and Unreal Engine.
+- 🌟 Skilled in **end-to-end development**, from server management to UI/UX design, with a focus on building innovative tools like compilers and backend frameworks.
+- 💻 Proficient in **web development** (React.js, Node.js, Next.js, PHP, MySQL) and **mobile app modifications** (Android APKs, iOS IPAs).
 - 🔒 Expert in **mobile security**, reverse engineering, and performance optimization.
-- 📈 Delivered **mobile app** and **15+ production-ready web apps**.
+- 📈 Delivered **100+ mobile app modifications** with **50,000+ downloads** and **15+ production-ready web apps**.
 
 ---
 
@@ -22,12 +21,13 @@ I'm a passionate **Full Stack Developer** pursuing a Bachelor's degree in Comput
 
 | **Category**          | **Skills**                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
-| **Languages**         | JavaScript, Python, Java, PHP, C#, Objective-C, Kotlin, Lua, Dart          |
-| **Frameworks/Libs**   | React.js, Node.js, Spring Boot, Flutter, Angular, Vue.js, Django, Laravel  |
-| **Databases & Cloud** | MySQL, PostgreSQL, MongoDB, SQLite, Firebase, Redis, Docker, AWS           |
-| **Game Development**  | Unity, Unreal Engine, 3D Design                                           |
-| **Security & DevOps** | Reverse Engineering (APK/IPA), Mobile Security, CI/CD, Git, API Security   |
-| **Other Tools**       | Photoshop, Video Editing, Server Management (Nginx), Pen Testing           |
+| **Frontend Development** | JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind CSS, @nextui-org/react, Framer Motion |
+| **Backend Development** | Node.js, Python (Flask), PHP, C, Java, RESTful APIs, Express.js, Spring Boot, Django, Laravel |
+| **Databases & Cloud** | MongoDB, Supabase, SQL, MySQL, PostgreSQL, SQLite, Firebase, Redis, Docker, AWS |
+| **Game Development**  | Unity, Unreal Engine, 3D Design, WebAssembly                              |
+| **Security & DevOps** | Reverse Engineering (APK/IPA), Mobile Security, CI/CD, Git (Certified), API Security, NextAuth.js, JWT, Nginx |
+| **Other Tools**       | Photoshop, Video Editing, Server Management (Nginx), Pen Testing          |
+| **Additional Languages** | C#, Objective-C, Kotlin, Lua, Dart, Go |
 
 ---
 
@@ -67,18 +67,20 @@ I'm a passionate **Full Stack Developer** pursuing a Bachelor's degree in Comput
 - **Player Implementations**:
   - [Quran-Encyclopedia Video](https://q5.qa/vid): Video player for Islamic content. *(Node.js, React.js)*
   - [TV channel](https://q5.qa/t): Live streaming player implementation. *(Node.js, React.js)*
-- **Game Development Projects**: Designed 3D environments and gameplay mechanics using **Unity** and **Unreal Engine** for immersive gaming experiences. *(Unity, Unreal Engine)*
+- **Game Development Projects**: Designed 3D environments and gameplay mechanics for immersive gaming experiences. *(Unity, Unreal Engine)*
 
-*Explore more projects on my [GitHub](https://github.com/6lj?tab=repositories) or [Projects Page](https://cv.q5.qa).*
+
+*Explore more projects on my [GitHub](https://github.com/6lj?tab=repositories) or [Portfolio](https://cv.q5.qa).*
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **BS, Computer Science** – National University (NU), GPA 3.5/5 *(ـune 2025)*
+- **BS, Computer Science** – Najran University (NU), GPA 3.5/5 *(June 2025)*
 - **Full Stack Web Development** – Professional Certificate *(2024)*
 - **Diploma in IT Management** – Alison *(2025)*
 - **Advanced JavaScript & React Development** – Certificate *(2024)*
+- **Git Certification** *(2024)*
 
 ---
 
@@ -87,20 +89,29 @@ I'm a passionate **Full Stack Developer** pursuing a Bachelor's degree in Comput
 - Published **100+ mobile app modifications** with **50,000+ downloads**.
 - Deployed **15+ production-ready web applications** with CI/CD pipelines.
 - Expert contributor to communities like **GameGuardian** and **iOSGods**.
-- Advanced expertise in **3D game development**, **mobile security**, and **server optimization**.
+- Advanced expertise in **mobile security**, **server optimization**, and **compiler design**.
+- Developed **Baraqex Framework**, a modern JavaScript/TypeScript framework with 1,124 weekly downloads.
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm open to collaborations, projects, or opportunities in **full-stack development**, **game development**, or **mobile security**. Reach out via:
+I'm open to collaborations, projects, or opportunities in **full-stack development**, **mobile security**, or **compiler design**. Reach out via:
 
 - 📧 **Email**: [q@q5.qa](mailto:q@q5.qa)
 - 💼 **LinkedIn**: [Mohammed Hussain Al Abyah](https://www.linkedin.com/in/mohammed-hussain-al-abyah-a85887238/)
-- 🌐 **Portfolio**: [cv.q5.qa](https://cv.q5.qa)
+- 🌐 **Portfolio**: [cv.q5.qa](https://cv.q5.qa), [mohamedalihamroun.me](https://mohamedalihamroun.me)
 - 🐙 **GitHub**: [github.com/6lj](https://github.com/6lj)
 - 📱 **Social Media**: [q5.qa](https://q5.qa)
 
+---
+
+*“Building the future, one line of code at a time.”*
+
+I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!
+* **CV**: [https://cv.q5.qa](https://cv.q5.qa)  
+* **GitHub**: [https://github.com/6lj](https://github.com/6lj)  
+* **Email**: q@q5.qa
 ---
 
 *“Building the future, one line of code at a time.”*
