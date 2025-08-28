@@ -34,7 +34,7 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 
 ## 🌟 Selected Projects
 
-- **[RXOstore](https://rxoksa.shop/main)**: Built a scalable e-commerce platform for 10,000+ users with 99.9% uptime and 40% faster load times. *(PHP, MySQL, JavaScript, Docker, Nginx)*
+- **[RXOstore](https://rxoksa.shop)**: Built a scalable e-commerce platform for 10,000+ users with 99.9% uptime and 40% faster load times. *(PHP, MySQL, JavaScript, Docker, Nginx)*
 - **Mobile App Modifications**:
   - [Polywar-GG-1.0.0-lua](https://github.com/6lj/Polywar-GG-1.0.0-lua): Lua script for game modification. *(Lua)*
   - [Kuboom](https://gameguardian.net/forum/files/file/4033-kuboom-unlook-sabrina-and-clown/): Unlocked characters using Lua scripts. *(Lua)*
