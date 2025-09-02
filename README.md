@@ -1,19 +1,16 @@
-
-![](https://q5.qa/kax3ul6cdomb03zmwg.svg)
-
 # 👋 Hi, I'm Mohamed AlAbiya (ENDUP)
 
 **Full Stack Developer | Software Engineer | Mobile & Game Development**
 
-I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree in Computer Science from Najran University (NU) in June 2025. With expertise in web and mobile development, I create scalable, efficient, and innovative solutions. My experience spans **server-side, client-side, backend, frontend, and mobile app modifications**.
+I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree in Computer Science from Najran University (NU) in June 2025. With expertise in web and mobile development, I create scalable, efficient, and innovative solutions. My experience spans **server-side, client-side, backend, frontend, mobile app modifications, machine learning, and cybersecurity**.
 
 ---
 
 ## 🚀 About Me
 
-- 🌟 Skilled in **end-to-end development**, from server management to UI/UX design, with a focus on building innovative tools like compilers and backend frameworks.
-- 💻 Proficient in **web development** (React.js, Node.js, Next.js, PHP, MySQL) and **mobile app modifications** (Android APKs, iOS IPAs).
-- 🔒 Expert in **mobile security**, reverse engineering, and performance optimization.
+- 🌟 Skilled in **end-to-end development**, from server management to UI/UX design, with a focus on building innovative tools like compilers, backend frameworks, and machine learning models.
+- 💻 Proficient in **web development** (React.js, Node.js, Next.js, PHP, MySQL), **mobile app modifications** (Android APKs, iOS IPAs), and **machine learning** (clustering, generative AI).
+- 🔒 Expert in **mobile security**, reverse engineering, **cybersecurity** (vulnerability scanning, penetration testing), and performance optimization.
 - 📈 Delivered **100+ mobile app modifications** with **50,000+ downloads** and **15+ production-ready web apps**.
 
 ---
@@ -25,9 +22,11 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 | **Frontend Development** | JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind CSS, @nextui-org/react, Framer Motion |
 | **Backend Development** | Node.js, Python (Flask), PHP, C, Java, RESTful APIs, Express.js, Spring Boot, Django, Laravel |
 | **Databases & Cloud** | MongoDB, Supabase, SQL, MySQL, PostgreSQL, SQLite, Firebase, Redis, Docker, AWS |
+| **Machine Learning**  | Clustering Models, Generative AI, Azure ML Designer, TensorFlow           |
+| **Cybersecurity**     | Vulnerability Scanning (Nmap), Penetration Testing (Metasploit), API Security, NextAuth.js, JWT |
 | **Game Development**  | Unity, Unreal Engine, 3D Design, WebAssembly                              |
-| **Security & DevOps** | Reverse Engineering (APK/IPA), Mobile Security, CI/CD, Git (Certified), API Security, NextAuth.js, JWT, Nginx |
-| **Other Tools**       | Photoshop, Video Editing, Server Management (Nginx), Pen Testing          |
+| **Security & DevOps** | Reverse Engineering (APK/IPA), Mobile Security, CI/CD, Git (Certified), Nginx, Server Management |
+| **Other Tools**       | Photoshop, Video Editing, Microsoft Excel, Server Management (Nginx), Pen Testing |
 | **Additional Languages** | C#, Objective-C, Kotlin, Lua, Dart, Go |
 
 ---
@@ -70,7 +69,6 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
   - [TV channel](https://q5.qa/t): Live streaming player implementation. *(Node.js, React.js)*
 - **Game Development Projects**: Designed 3D environments and gameplay mechanics for immersive gaming experiences. *(Unity, Unreal Engine)*
 
-
 *Explore more projects on my [GitHub](https://github.com/6lj?tab=repositories) or [Portfolio](https://cv.q5.qa).*
 
 ---
@@ -78,10 +76,15 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 ## 🎓 Education & Certifications
 
 - **BS, Computer Science** – Najran University (NU), GPA 3.5/5 *(June 2025)*
-- **Full Stack Web Development** – Professional Certificate *(2024)*
-- **Diploma in IT Management** – Alison *(2025)*
-- **Advanced JavaScript & React Development** – Certificate *(2024)*
-- **Git Certification** *(2024)*
+- **Building Machine Learning Models**  ([Certificate](https://courses.edx.org/certificates/b3d91935cd1a490e976c9a38a64ae4d5)) *(2025)*
+- **CSS (Cascading Style Sheets)** ([Certificate](https://courses.edx.org/certificates/6d286a53d50c451b8ab00a5f0836a776)) *(2025)*
+- **CompTIA Data+**  ([Certificate](https://www.coursera.org/account/accomplishments/verify/LLYPEIOZA7V2)) *(2025)*
+- **Develop Clustering Models with Azure ML Designer** ([Certificate](https://www.coursera.org/account/accomplishments/verify/TNKRCOKT4HF8)) *(2025)*
+- **Generative AI**  ([Certificate](https://www.coursera.org/account/accomplishments/records/3AXW6I0TYKJ5)) *(2025)*
+- **Metasploit**  ([Certificate](https://www.coursera.org/account/accomplishments/verify/ISMCNLGT5XTL)) *(2025)*
+- **Microsoft Excel**  ([Certificate](https://www.coursera.org/account/accomplishments/verify/NPY0HPUER2IE)) *(2025)*
+- **MySQL for Data Engineering**  ([Certificate](https://www.coursera.org/account/accomplishments/verify/OIRI6Z29G0VF)) *(2025)*
+- **Vulnerability Scanning with Nmap: Network Scanning**  ([Certificate](https://www.coursera.org/account/accomplishments/records/PJ9ZFDHOF9K8)) *(2025)*
 
 ---
 
@@ -90,14 +93,14 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 - Published **100+ mobile app modifications** with **50,000+ downloads**.
 - Deployed **15+ production-ready web applications** with CI/CD pipelines.
 - Expert contributor to communities like **GameGuardian** and **iOSGods**.
-- Advanced expertise in **mobile security**, **server optimization**, and **compiler design**.
+- Advanced expertise in **mobile security**, **server optimization**, **compiler design**, **machine learning**, and **cybersecurity**.
 - Developed **Baraqex Framework**, a modern JavaScript/TypeScript framework with 1,124 weekly downloads.
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm open to collaborations, projects, or opportunities in **full-stack development**, **mobile security**, or **compiler design**. Reach out via:
+I'm open to collaborations, projects, or opportunities in **full-stack development**, **mobile security**, **compiler design**, **machine learning**, or **cybersecurity**. Reach out via:
 
 - 📧 **Email**: [q@q5.qa](mailto:q@q5.qa)
 - 💼 **LinkedIn**: [Mohammed Hussain Al Abyah](https://www.linkedin.com/in/mohammed-hussain-al-abyah-a85887238/)
@@ -113,4 +116,3 @@ I'm always open to discussing new projects, collaborations, or opportunities. Fe
 * **CV**: [https://cv.q5.qa](https://cv.q5.qa)  
 * **GitHub**: [https://github.com/6lj](https://github.com/6lj)  
 * **Email**: q@q5.qa
-
