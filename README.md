@@ -67,7 +67,7 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
   - [PlantUML Viewer](https://fastviewer.q5.qa/editor): Web app for displaying UML diagrams using PlantUML. *(JavaScript, Node.js)*
   - [3DWEB](https://3dtest.q5.qa): 3D web application with interactive visualizations. *(JavaScript, WebGL, HTML, three.js)*
 - **Player Implementations**:
-  - [Quran-Encyclopedia](https://q5.qa/vid): Video player for Islamic content. *(Node.js, React.js)*
+  - [Quran-Encyclopedia](https://q.q5.qa): Video player for Islamic content. *(Node.js, React.js)*
   - [TV channel](https://q5.qa/t): Live streaming player implementation. *(Node.js, React.js)*
 - **Game Development Projects**: Designed 3D environments and gameplay mechanics for immersive gaming experiences. *(Unity, Unreal Engine)*
 
