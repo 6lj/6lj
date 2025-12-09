@@ -126,8 +126,7 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 
 ## 🏆 Key Achievements
 
-- Published **100+ mobile app modifications** with **50,000+ downloads**.
-- Deployed **15+ production-ready web applications** with CI/CD pipelines.
+- Deployed ** production-ready web applications** with CI/CD pipelines.
 - Expert contributor to communities like **GameGuardian** and **iOSGods**.
 - Advanced expertise in **mobile security**, **server optimization**, **compiler design**, **machine learning**, and **cybersecurity**.
 - Developed **Baraqex Framework**, a modern JavaScript/TypeScript framework with 1,124 weekly downloads.
