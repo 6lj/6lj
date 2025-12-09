@@ -35,7 +35,21 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 
 ## 🌟 Selected Projects
 
-- **[RXOstore](https://rxoksa.shop)**: Built a scalable e-commerce platform for 10,000+ users with 99.9% uptime and 40% faster load times. *(PHP, MySQL, JavaScript, Docker, Nginx)*
+- **[Arab Technical Academy](https://ateq.q5.qa)**: Educational initiative to develop technical skills in the Arab world. *(Web Development)*
+- **[CVE-2025-3639](https://github.com/6lj/CVE-2025-3639)**: Security vulnerability in Liferay Portal allowing MFA bypass. *(Python, Cybersecurity)*
+- **[CVE-2021-23017 Update](https://github.com/6lj/EVIL-CVE-2021-23017-Update-2025)**: Updated vulnerability in NGINX servers with firewall bypass improvements. *(Python, Cybersecurity)*
+- **[CV Builder](https://cvb.q5.qa)**: Web application for creating, previewing, and downloading CVs as PDFs. *(JavaScript, React.js)*
+- **[Device Fingerprint](https://fingerprint.q5.qa)**: Browser fingerprinting for device identification and security. *(JavaScript)*
+- **[PlantUML Viewer](https://fastviewer.q5.qa/editor)**: Web app for displaying UML diagrams using PlantUML. *(JavaScript, Node.js)*
+- **[Tasks System](https://task.q5.qa)**: Personal task management system developed for personal use. *(React.js)*
+- **[Quran Encyclopedia](https://q.q5.qa)**: Website containing all chapters of the Holy Quran. *(Node.js, React.js, SQLite)*
+- **[Server Side Exploit - Tryhackme Room](https://q5.qa/linkshere)**: The room aims to skillfully exploit vulnerabilities, moving from web-based attacks to shell access and then escalating privileges. *(Cybersecurity)*
+- **[SaudiAI Model V1](https://q5.qa/aaa2.gif)**: First Saudi artificial intelligence model. *(Machine Learning)*
+- **[3D Model Editor](https://3deditor.q5.qa)**: 3D model editor and viewer with Unity-inspired interface. *(JavaScript, WebGL)*
+- **[Text to UML](https://uml.q5.qa)**: Website to convert text to UML diagrams using AI. *(Python, TensorFlow)*
+- **[WebDroid-N7](https://github.com/6lj/WebDroid-N7)**: First pure web Android 7.1 full system. *(HTML, JavaScript)*
+- **[Audio Web Changer](https://music.q5.qa)**: Web app for speeding up and slowing down music with audio effects. *(JavaScript)*
+- **[Allocate Memory](https://gameguardian.net/forum/files/file/3841-allocate-memory-script-write)**: Memory allocation script for Android apps. *
 - **Mobile App Modifications**:
   - [Polywar-GG-1.0.0-lua](https://github.com/6lj/Polywar-GG-1.0.0-lua): Lua script for game modification. *(Lua)*
   - [Kuboom](https://gameguardian.net/forum/files/file/4033-kuboom-unlook-sabrina-and-clown/): Unlocked characters using Lua scripts. *(Lua)*
@@ -57,6 +71,7 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
   - [sendmassageandshow](https://msg.q5.qa): Messaging platform. *(Node.js, SQLite)*
   - [UML AI](https://uml.q5.qa): AI-driven UML diagram generator. *(Python, TensorFlow, PostgreSQL)*
   - [Task Manager](https://task.q5.qa): Task management app. *(React.js)*
+  - **[RXOstore](https://rxoksa.shop)**: Built a scalable e-commerce platform for 10,000+ users with 99.9% uptime and 40% faster load times. *(PHP, MySQL, JavaScript, Docker, Nginx)*
   - [Rate-your-doctor](https://github.com/6lj/Rate-your-doctor): Doctor rating platform. *(Node.js, React.js)*
   - [TV channel](https://q5.qa/t): Streaming platform for TV channels. *(Node.js, React.js)*
   - [Social Media Page](https://q5.qa): Social media platform prototype. *(Node.js, React.js)*
@@ -78,15 +93,36 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 ## 🎓 Education & Certifications
 
 - **BS, Computer Science** – Najran University (NU), GPA 3.5/5 *(June 2025)*
-- **Building Machine Learning Models**  ([Certificate](https://courses.edx.org/certificates/b3d91935cd1a490e976c9a38a64ae4d5)) *(2025)*
-- **CSS (Cascading Style Sheets)** ([Certificate](https://courses.edx.org/certificates/6d286a53d50c451b8ab00a5f0836a776)) *(2025)*
-- **CompTIA Data+**  ([Certificate](https://www.coursera.org/account/accomplishments/verify/LLYPEIOZA7V2)) *(2025)*
-- **Develop Clustering Models with Azure ML Designer** ([Certificate](https://www.coursera.org/account/accomplishments/verify/TNKRCOKT4HF8)) *(2025)*
-- **Generative AI**  ([Certificate](https://www.coursera.org/account/accomplishments/records/3AXW6I0TYKJ5)) *(2025)*
-- **Metasploit**  ([Certificate](https://www.coursera.org/account/accomplishments/verify/ISMCNLGT5XTL)) *(2025)*
-- **Microsoft Excel**  ([Certificate](https://www.coursera.org/account/accomplishments/verify/NPY0HPUER2IE)) *(2025)*
-- **MySQL for Data Engineering**  ([Certificate](https://www.coursera.org/account/accomplishments/verify/OIRI6Z29G0VF)) *(2025)*
-- **Vulnerability Scanning with Nmap: Network Scanning**  ([Certificate](https://www.coursera.org/account/accomplishments/records/PJ9ZFDHOF9K8)) *(2025)*
+
+### 📜 **Professional Certifications**
+
+- **AI for Executives: The Basics** ([Certificate](https://www.coursera.org/account/accomplishments/verify/T1E98XDYMARI)) *(Khalifa University, Nov 2025)*
+- **Foundations of Coding Full-Stack** ([Certificate](https://www.coursera.org/account/accomplishments/verify/4XTXHPOTSDFP)) *(Microsoft, Nov 2025)*
+- **Python Programming: Basic Skills** ([Certificate](https://courses.edx.org/certificates/7d5df2ee52c34e24b8431aca4bb9d9fa)) *(Codio, Nov 2025)*
+- **AI & ML Applications in Oil and Gas Industry** ([Certificate](https://www.coursera.org/account/accomplishments/verify/CRNPEHPOHZ6K)) *(L&T EduTech, Oct 2025)*
+- **AWS Cloud Technical Essentials** ([Certificate](https://courses.edx.org/certificates/d913543cfac747bd9f2e67f66f550076)) *(Amazon Web Services, Oct 2025)*
+- **Android Mobile Application Development** ([Certificate](https://www.coursera.org/account/accomplishments/verify/E0BUXXU9GFHK)) *(Meta, Oct 2025)*
+- **Foundations of Cybersecurity** ([Certificate](https://www.coursera.org/account/accomplishments/verify/4H2IZN4C8SNH)) *(Google, Oct 2025)*
+- **Fundamentals of Artificial Intelligence and Big Data** ([Certificate](https://www.coursera.org/account/accomplishments/verify/R1OYLT7I2SF0)) *(Alfaisal University, Oct 2025)*
+- **Introduction To Swift Programming** ([Certificate](https://www.coursera.org/account/accomplishments/verify/6K5CGO4Y4EAE)) *(University of Toronto, Oct 2025)*
+- **Oil & Gas Industry Operations and Markets** ([Certificate](https://www.coursera.org/account/accomplishments/verify/6F9YW175K3TE)) *(Duke University, Oct 2025)*
+- **Supervised Machine Learning: Regression and Classification** ([Certificate](https://www.coursera.org/account/accomplishments/verify/KHRN3S12FK5U)) *(DeepLearning.AI, Oct 2025)*
+- **CompTIA Data+** ([Certificate](https://www.coursera.org/account/accomplishments/verify/LLYPEIOZA7V2)) *(Infosec, Sep 2025)*
+- **Cybersecurity Assessment: CompTIA Security+ & CYSA+** ([Certificate](https://www.coursera.org/account/accomplishments/records/QA6DRW07JB27)) *(IBM, Sep 2025)*
+- **DDoS Attacks and Defenses** ([Certificate](https://www.coursera.org/account/accomplishments/records/W7O2LIND5EMN)) *(University of Colorado, Sep 2025)*
+- **Data Analysis: Basic Probability and Statistics** ([Certificate](https://courses.edx.org/certificates/a7f83ffe1ecd4df7af77d74c719a435f)) *(Harvard University, Sep 2025)*
+- **Ethical Hacking Complete** ([Certificate](https://www.udemy.com/certificate/UC-05da9217-8bba-447d-acb1-4f39e4da829b)) *(Udemy, Sep 2025)*
+- **Server side Attacks** ([Certificate](https://academy.hackthebox.com/achievement/2103232/145)) *(HackTheBox - DXB, Sep 2025)*
+- **The Complete SQL Bootcamp** ([Certificate](https://www.udemy.com/certificate/UC-04dbcfcb-f1c2-4005-b072-59b07ae250e7)) *(Udemy, Sep 2025)*
+- **iOS Mobile Application Development** ([Certificate](https://www.coursera.org/account/accomplishments/verify/AC9NK37M3Y12)) *(Coursera, Sep 2025)*
+- **CSS (Cascading Style Sheets)** ([Certificate](https://courses.edx.org/certificates/6d286a53d50c451b8ab00a5f0836a776)) *(edX, Aug 2025)*
+- **Develop Clustering Models with Azure ML Designer** ([Certificate](https://www.coursera.org/account/accomplishments/verify/TNKRCOKT4HF8)) *(Microsoft, Aug 2025)*
+- **Generative AI** ([Certificate](https://www.coursera.org/account/accomplishments/records/3AXW6I0TYKJ5)) *(Google Cloud Skills Boost, Aug 2025)*
+- **Metasploit** ([Certificate](https://www.coursera.org/account/accomplishments/verify/ISMCNLGT5XTL)) *(Coursera, Aug 2025)*
+- **Microsoft Excel** ([Certificate](https://www.coursera.org/account/accomplishments/verify/NPY0HPUER2IE)) *(Coursera, Aug 2025)*
+- **MySQL for Data Engineering** ([Certificate](https://www.coursera.org/account/accomplishments/verify/OIRI6Z29G0VF)) *(Duke University, Aug 2025)*
+- **Scanning with Nmap** ([Certificate](https://www.coursera.org/account/accomplishments/records/PJ9ZFDHOF9K8)) *(Coursera, Aug 2025)*
+- **Building Machine Learning Models** ([Certificate](https://courses.edx.org/certificates/b3d91935cd1a490e976c9a38a64ae4d5)) *(Harvard University, Aug 2025)*
 
 ---
 
