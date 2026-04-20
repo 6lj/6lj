@@ -9,17 +9,19 @@
 
 | **Category**          | **Skills**                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
-| **Frontend Development** | JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind CSS, @nextui-org/react, Framer Motion |
-| **Backend Development** | Node.js, Python (Flask), PHP, C, Java, RESTful APIs, Express.js, Spring Boot, Django, Laravel |
-| **Databases & Cloud** | MongoDB, Supabase, SQL, MySQL, PostgreSQL, SQLite, Firebase, Redis, Docker, AWS |
-| **Machine Learning**  | Clustering Models, Generative AI, Azure ML Designer, TensorFlow           |
-| **Cybersecurity**     | Vulnerability Scanning (Nmap), Penetration Testing (Metasploit), API Security, NextAuth.js, JWT |
-| **Game Development**  | Unity, Unreal Engine, 3D Design, WebAssembly                              |
+| **Cybersecurity**     | Vulnerability Assessment, Penetration Testing (Metasploit), Scanning (Nmap), OWASP, API & Auth Hardening (NextAuth.js, JWT), SIEM-ready workflows |
 | **Security & DevOps** | Reverse Engineering (APK/IPA), Mobile Security, CI/CD, Git (Certified), Nginx, Server Management, Splunk, ELK Stack (Elasticsearch, Logstash, Kibana) |
-| **Other Tools**       | Photoshop, Video Editing, Microsoft Excel, Server Management (Nginx), Pen Testing |
+| **Frontend Development** | JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind CSS, @nextui-org/react, Framer Motion |
+| **Backend Development** | Node.js, Python (Flask), PHP, C, Java, RESTful APIs, GraphQL, Microsoft Graph API, Express.js, Spring Boot, Django, Laravel |
+| **Databases & Cloud** | MongoDB, Supabase, SQL, MySQL, PostgreSQL, Oracle Database, SQLite, Firebase, Redis, Docker, AWS |
+| **AI & Machine Learning** | Classical & Deep ML, **AI Models** (LLMs, Transformers), Generative AI, Model Deployment & Inference (e.g. Ollama), Clustering, Azure ML Designer, TensorFlow |
+| **Software Design & UML** | **UML Diagrams**, PlantUML, Mermaid, ERD / data modeling, sequence & architecture documentation |
+| **Game Development**  | Unity, Unreal Engine, 3D Design, WebAssembly                              |
+| **Other Tools**       | Photoshop, Video Editing, Microsoft Excel, Pen Testing |
 | **Additional Languages** | C#, Objective-C, Kotlin, Lua, Dart, Go |
 
 ---
+
 
 ## 🌟 Selected Projects
 
