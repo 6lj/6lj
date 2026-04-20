@@ -3,17 +3,6 @@
 # 👋 Welcome
 
 
-a Bachelor's degree in Computer Science from Najran University (NU) in June 2025. With expertise in web and mobile development, I create scalable, efficient, and innovative solutions. My experience spans **server-side, client-side, backend, frontend, mobile app modifications, machine learning, and cybersecurity**.
-
----
-
-## 🚀 About Me
-
-- 🌟 Skilled in **end-to-end development**, from server management to UI/UX design, with a focus on building innovative tools like compilers, backend frameworks, and machine learning models.
-- 💻 Proficient in **web development** (React.js, Node.js, Next.js, PHP, MySQL), **mobile app modifications** (Android APKs, iOS IPAs), and **machine learning** (clustering, generative AI).
-- 🔒 Expert in **mobile security**, reverse engineering, **cybersecurity** (vulnerability scanning, penetration testing), and performance optimization.
-- 📈 Delivered **100+ mobile app modifications** with **50,000+ downloads** and **15+ production-ready web apps**.
-
 ---
 
 ## 💡 Skills Snapshot
@@ -26,13 +15,14 @@ a Bachelor's degree in Computer Science from Najran University (NU) in June 2025
 | **Machine Learning**  | Clustering Models, Generative AI, Azure ML Designer, TensorFlow           |
 | **Cybersecurity**     | Vulnerability Scanning (Nmap), Penetration Testing (Metasploit), API Security, NextAuth.js, JWT |
 | **Game Development**  | Unity, Unreal Engine, 3D Design, WebAssembly                              |
-| **Security & DevOps** | Reverse Engineering (APK/IPA), Mobile Security, CI/CD, Git (Certified), Nginx, Server Management |
+| **Security & DevOps** | Reverse Engineering (APK/IPA), Mobile Security, CI/CD, Git (Certified), Nginx, Server Management, Splunk, ELK Stack (Elasticsearch, Logstash, Kibana) |
 | **Other Tools**       | Photoshop, Video Editing, Microsoft Excel, Server Management (Nginx), Pen Testing |
 | **Additional Languages** | C#, Objective-C, Kotlin, Lua, Dart, Go |
 
 ---
 
 ## 🌟 Selected Projects
+
 
 - **[Planets 3D](https://planet.q5.qa)**: Interactive 3D solar system in the browser with three.js and mobile support. *(JavaScript, WebGL, three.js)*
 - **[Linux On Web](https://linux.q5.qa)**: Linux environment in the browser with common tooling. *(WebAssembly / web technologies)*
