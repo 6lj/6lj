@@ -1,10 +1,9 @@
 
 ![](https://q5.qa/kax3ul6cdomb03zmwg.svg)
-# 👋 Hi, I'm Mohamed AlAbiya (ENDUP)
+# 👋 Welcome
 
-**Full Stack Developer | Software Engineer | Mobile & Game Development**
 
-I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree in Computer Science from Najran University (NU) in June 2025. With expertise in web and mobile development, I create scalable, efficient, and innovative solutions. My experience spans **server-side, client-side, backend, frontend, mobile app modifications, machine learning, and cybersecurity**.
+a Bachelor's degree in Computer Science from Najran University (NU) in June 2025. With expertise in web and mobile development, I create scalable, efficient, and innovative solutions. My experience spans **server-side, client-side, backend, frontend, mobile app modifications, machine learning, and cybersecurity**.
 
 ---
 
@@ -35,6 +34,10 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 
 ## 🌟 Selected Projects
 
+- **[Planets 3D](https://planet.q5.qa)**: Interactive 3D solar system in the browser with three.js and mobile support. *(JavaScript, WebGL, three.js)*
+- **[Linux On Web](https://linux.q5.qa)**: Linux environment in the browser with common tooling. *(WebAssembly / web technologies)*
+- **[CSRF Lab](https://q5.qa/private/chall)**: Hands-on Cross-Site Request Forgery exercises in a bank-style scenario (malicious HTML, weak GET flows). *(Cybersecurity, Web)*
+- **[Q5 Bot](https://q5.qa)**: Configurable task-oriented bot (Phi-3.5, Ollama, Piper TTS offline); low-latency responses; work in progress. *(AI, Backend)*
 - **[Arab Technical Academy](https://ateq.q5.qa)**: Educational initiative to develop technical skills in the Arab world. *(Web Development)*
 - **[CVE-2025-3639](https://github.com/6lj/CVE-2025-3639)**: Security vulnerability in Liferay Portal allowing MFA bypass. *(Python, Cybersecurity)*
 - **[CVE-2021-23017 Update](https://github.com/6lj/EVIL-CVE-2021-23017-Update-2025)**: Updated vulnerability in NGINX servers with firewall bypass improvements. *(Python, Cybersecurity)*
@@ -61,23 +64,19 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
   - [Meitu](https://iosgods.com/topic/172131-hack-meitu-%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80-9890-all-ios-ver): Modified app for enhanced photo editing features. *(Objective-C)*
 - **Web Development**:
   - [Project2-NU-Database-And-php](https://github.com/6lj/Project2-NU-Database-And-php): Database-driven web app. *(PHP, MySQL)*
-  - [RXOstore](https://rxoksa.shop/main): Scalable e-commerce platform. *(PHP, MySQL, JavaScript, Docker, Nginx)*
   - [Project-Questions](https://cc.q5.qa/): Interactive Q&A platform. *(Node.js, React.js)*
   - [Quran-Encyclopedia](https://q.q5.qa): Multimedia web app for Islamic content. *(Node.js, React.js, SQLite)*
   - [RXO-Calculator-KSA](https://github.com/6lj/RXO-Calculator-KSA): Financial calculator for KSA. *(JavaScript, Node.js)*
   - [Polywar Website](https://github.com/6lj/Polywar-Mod-Menu-Website): Game mod menu website. *(HTML, CSS, JavaScript)*
   - [sendmassageandshow](https://msg.q5.qa): Messaging platform. *(Node.js, SQLite)*
   - [UML AI](https://uml.q5.qa): AI-driven UML diagram generator. *(Python, TensorFlow, PostgreSQL)*
-  - [Task Manager](https://task.q5.qa): Task management app. *(React.js)*
   - **[RXOstore](https://rxoksa.shop)**: Built a scalable e-commerce platform for 10,000+ users with 99.9% uptime and 40% faster load times. *(PHP, MySQL, JavaScript, Docker, Nginx)*
   - [Rate-your-doctor](https://github.com/6lj/Rate-your-doctor): Doctor rating platform. *(Node.js, React.js)*
   - [TV channel](https://q5.qa/t): Streaming platform for TV channels. *(Node.js, React.js)*
   - [Social Media Page](https://q5.qa): Social media platform prototype. *(Node.js, React.js)*
   - [1day-project](https://github.com/6lj/1day-project): Rapid prototype. *(Node.js, SQLite, React.js)*
-  - [Device-Fingerprint](https://github.com/6lj/Device-Fingerprint): Browser fingerprinting for device identification and security. *(JavaScript)*
   - [Personal CV Website](https://cv.q5.qa): Interactive portfolio with AI and live chat database. *(React.js, Node.js, SQLite)*
   - [PDF Viewer](https://cert.q5.qa): Web app to browse and view PDF certificates. *(JavaScript, Node.js)*
-  - [PlantUML Viewer](https://fastviewer.q5.qa/editor): Web app for displaying UML diagrams using PlantUML. *(JavaScript, Node.js)*
   - [3DWEB](https://3dtest.q5.qa): 3D web application with interactive visualizations. *(JavaScript, WebGL, HTML, three.js)*
 - **Player Implementations**:
   - [Quran-Encyclopedia](https://q.q5.qa): Video player for Islamic content. *(Node.js, React.js)*
@@ -94,9 +93,16 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 
 ### 📜 **Professional Certifications**
 
+- **Neural Networks and Deep Learning** ([Certificate](https://www.coursera.org/account/accomplishments/verify/T5MFA1AC4CBE)) *(DeepLearning.AI, Dec 2025)*
+- **AWS Certified Solutions Architect** ([Certificate](https://www.coursera.org/account/accomplishments/records/H8AKNX84UEZ6)) *(LearnKartS, Dec 2025)*
+- **Hardware and Operating Systems** ([Certificate](https://courses.edx.org/certificates/1dbd457465c441b0ba004e2e35ff8ba6)) *(IBM, Dec 2025)*
+- **Methods and Application in Human-Robot Interaction** ([Certificate](https://courses.edx.org/certificates/fc4840b4f1004cf9993c389c181e6a75)) *(University of Canterbury, Dec 2025)*
+- **Build an AI Travel Agent App with OpenAI** ([Certificate](https://www.coursera.org/account/accomplishments/records/SAV22BK9WN5S)) *(Scrimba, Nov 2025)*
 - **AI for Executives: The Basics** ([Certificate](https://www.coursera.org/account/accomplishments/verify/T1E98XDYMARI)) *(Khalifa University, Nov 2025)*
 - **Foundations of Coding Full-Stack** ([Certificate](https://www.coursera.org/account/accomplishments/verify/4XTXHPOTSDFP)) *(Microsoft, Nov 2025)*
 - **Python Programming: Basic Skills** ([Certificate](https://courses.edx.org/certificates/7d5df2ee52c34e24b8431aca4bb9d9fa)) *(Codio, Nov 2025)*
+- **Cybersecurity and social implications** ([Certificate](https://courses.edx.org/certificates/4c4917d700d446eca2bd94bce031e030)) *(University of Valencia, Oct 2025)*
+- **Object Oriented Development using C#** ([Certificate](https://www.coursera.org/account/accomplishments/records/8RM2DMVC64RZ)) *(Jordan University of Science and Technology, Oct 2025)*
 - **AI & ML Applications in Oil and Gas Industry** ([Certificate](https://www.coursera.org/account/accomplishments/verify/CRNPEHPOHZ6K)) *(L&T EduTech, Oct 2025)*
 - **AWS Cloud Technical Essentials** ([Certificate](https://courses.edx.org/certificates/d913543cfac747bd9f2e67f66f550076)) *(Amazon Web Services, Oct 2025)*
 - **Android Mobile Application Development** ([Certificate](https://www.coursera.org/account/accomplishments/verify/E0BUXXU9GFHK)) *(Meta, Oct 2025)*
@@ -122,14 +128,6 @@ I'm a passionate **Full Stack Developer** who graduated with a Bachelor's degree
 - **Scanning with Nmap** ([Certificate](https://www.coursera.org/account/accomplishments/records/PJ9ZFDHOF9K8)) *(Coursera, Aug 2025)*
 - **Building Machine Learning Models** ([Certificate](https://courses.edx.org/certificates/b3d91935cd1a490e976c9a38a64ae4d5)) *(Harvard University, Aug 2025)*
 
----
-
-## 🏆 Key Achievements
-
-- Deployed ** production-ready web applications** with CI/CD pipelines.
-- Expert contributor to communities like **GameGuardian** and **iOSGods**.
-- Advanced expertise in **mobile security**, **server optimization**, **compiler design**, **machine learning**, and **cybersecurity**.
-- Developed **Baraqex Framework**, a modern JavaScript/TypeScript framework with 1,124 weekly downloads.
 
 ---
 
