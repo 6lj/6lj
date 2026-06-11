@@ -6,5 +6,5 @@
 
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!
 * **CV**: [https://cv.q5.qa](https://cv.q5.qa)  
-* **GitHub**: [https://github.com/6lj](https://github.com/6lj)  
+* **Social Media**: [https://github.com/6lj](https://q5.qa)  
 * **Email**: q@q5.qa 
